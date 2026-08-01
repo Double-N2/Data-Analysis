@@ -1,0 +1,52 @@
+
+  Order ID,Customer ID,Customer Age,Gender,Product Name,Product Category,Quantity Purchased,Price,Discount,Date of Purchase,Payment Method,Location
+1001,C001,22,Male,Laptop,Electronics,1,850,50,2026-01-05,Card,Buea
+1002,C002,31,Female,T-Shirt,Clothing,3,20,5,2026-01-06,Cash,Douala
+1003,C003,27,Male,Rice,Groceries,2,25,0,2026-01-07,Mobile Money,Yaounde
+1004,C004,40,Female,Headphones,Electronics,1,120,10,2026-01-08,Card,Bamenda
+1005,C005,35,Male,Shoes,Fashion,2,75,15,2026-01-09,Cash,Limbe
+1006,C006,29,Female,Milk,Groceries,5,4,0,2026-01-10,Mobile Money,Buea
+1007,C007,45,Male,Television,Electronics,1,650,40,2026-01-11,Card,Douala
+1008,C008,19,Female,Notebook,Stationery,10,3,0,2026-01-12,Cash,Buea
+1009,C009,52,Male,Smartphone,Electronics,1,550,30,2026-01-13,Card,Yaounde
+1010,C010,24,Female,Backpack,Fashion,1,45,5,2026-01-14,Mobile Money,Bamenda
+1011,C011,38,Male,Beans,Groceries,4,8,0,2026-01-15,Cash,Limbe
+1012,C012,30,Female,Keyboard,Electronics,2,40,5,2026-01-16,Card,Douala
+1013,C013,41,Male,Mouse,Electronics,2,25,2,2026-01-17,Mobile Money,Buea
+1014,C014,23,Female,Jeans,Clothing,2,35,3,2026-01-18,Cash,Yaounde
+1015,C015,36,Male,Cooking Oil,Groceries,3,12,1,2026-01-19,Card,Douala
+1016,C016,28,Female,Water Bottle,Home,4,10,0,2026-01-20,Mobile Money,Buea
+1017,C017,48,Male,Office Chair,Furniture,1,180,20,2026-01-21,Card,Bamenda
+1018,C018,26,Female,Printer,Electronics,1,220,15,2026-01-22,Cash,Limbe
+1019,C019,39,Male,Coffee,Groceries,2,18,2,2026-01-23,Mobile Money,Douala
+1020,C020,21,Female,Dress,Clothing,1,55,5,2026-01-24,Card,Yaounde
+1021,C021,33,Male,Monitor,Electronics,1,300,20,2026-01-25,Cash,Buea
+1022,C022,27,Female,Bread,Groceries,6,2,0,2026-01-26,Mobile Money,Limbe
+1023,C023,44,Male,Table,Furniture,1,150,10,2026-01-27,Card,Douala
+1024,C024,32,Female,Sandals,Fashion,2,30,5,2026-01-28,Cash,Bamenda
+1025,C025,37,Male,Phone Charger,Electronics,3,15,1,2026-01-29,Mobile Money,Buea
+1026,C026,29,Female,Chocolate,Groceries,5,3,0,2026-01-30,Card,Yaounde
+1027,C027,42,Male,Fan,Home,2,60,5,2026-02-01,Cash,Douala
+1028,C028,25,Female,Pen,Stationery,20,1,0,2026-02-02,Mobile Money,Limbe
+1029,C029,51,Male,Refrigerator,Electronics,1,900,60,2026-02-03,Card,Buea
+1030,C030,20,Female,Skirt,Clothing,2,28,2,2026-02-04,Cash,Yaounde
+1031,C031,34,Male,Sugar,Groceries,3,6,0,2026-02-05,Mobile Money,Bamenda
+1032,C032,28,Female,Desk,Furniture,1,200,15,2026-02-06,Card,Douala
+1033,C033,47,Male,Router,Electronics,2,70,5,2026-02-07,Cash,Buea
+1034,C034,22,Female,Jacket,Clothing,1,65,5,2026-02-08,Mobile Money,Limbe
+1035,C035,39,Male,Soap,Groceries,8,2,0,2026-02-09,Card,Yaounde
+1036,C036,31,Female,Blender,Home,1,90,10,2026-02-10,Cash,Douala
+1037,C037,43,Male,Flash Drive,Electronics,4,18,2,2026-02-11,Mobile Money,Buea
+1038,C038,24,Female,Sneakers,Fashion,1,85,10,2026-02-12,Card,Bamenda
+1039,C039,46,Male,Books,Stationery,6,12,0,2026-02-13,Cash,Limbe
+1040,C040,27,Female,Juice,Groceries,10,2,0,2026-02-14,Mobile Money,Douala
+1041,C041,35,Male,Tablet,Electronics,1,420,25,2026-02-15,Card,Buea
+1042,C042,30,Female,Bag,Fashion,2,50,5,2026-02-16,Cash,Yaounde
+1043,C043,49,Male,Microwave,Home,1,160,15,2026-02-17,Mobile Money,Douala
+1044,C044,26,Female,Calculator,Stationery,3,15,1,2026-02-18,Card,Buea
+1045,C045,38,Male,Eggs,Groceries,12,1,0,2026-02-19,Cash,Limbe
+1046,C046,23,Female,Watch,Fashion,1,120,10,2026-02-20,Mobile Money,Bamenda
+1047,C047,40,Male,Speaker,Electronics,2,95,8,2026-02-21,Card,Douala
+1048,C048,29,Female,Tomatoes,Groceries,7,2,0,2026-02-22,Cash,Buea
+1049,C049,36,Male,Air Conditioner,Home,1,480,30,2026-02-23,Mobile Money,Yaounde
+1050,C050,25,Female,Notebook,Stationery,15,2,0,2026-02-24,Card,Limbe
